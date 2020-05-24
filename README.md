@@ -1,0 +1,2 @@
+# PatternClassificationLecture
+パターン認識特論
