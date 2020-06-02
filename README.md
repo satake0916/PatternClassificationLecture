@@ -1,2 +1,2 @@
 # PatternClassificationLecture
-パターン認識特論
+パターン認識特論の課題置き場
